@@ -1,5 +1,5 @@
 
-# Apresentação do Script de Configuração de Usuários, Grupos e Diretórios no Ambiente Linux:
+# Script de Configuração de Usuários, Grupos e Diretórios no Ambiente Linux:
 
 # Objetivo do Script:
 O script tem como principal objetivo a automação da configuração de usuários, grupos e diretórios em um ambiente Linux. Através da execução deste script, serão criados diretórios específicos para diferentes setores, grupos correspondentes a esses setores, e usuários atribuídos a tais grupos. Além disso, o script define as permissões adequadas nos diretórios criados.
