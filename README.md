@@ -1,18 +1,23 @@
 
 # Script de Configuração de Usuários, Grupos e Diretórios no Ambiente Linux:
 
-# Objetivo do Script:
-O script tem como principal objetivo a automação da configuração de usuários, grupos e diretórios em um ambiente Linux. Através da execução deste script, serão criados diretórios específicos para diferentes setores, grupos correspondentes a esses setores, e usuários atribuídos a tais grupos. Além disso, o script define as permissões adequadas nos diretórios criados.
 
-# Estrutura do Script:
-1. Criação de Diretórios:
-O script inicia criando diretórios para diferentes setores da organização, proporcionando uma estrutura organizada para armazenamento e colaboração. Os diretórios são nomeados como "publico", "administracao", "vendas" e "secretaria".
-2. Criação de Grupos:
-Em seguida, o script cria grupos correspondentes aos setores estabelecidos, promovendo uma gestão eficiente de permissões e acessos.
-3. Criação de Usuários e Associação a Grupos:
-Os usuários são criados e associados aos grupos pertinentes, permitindo uma administração eficaz de permissões de acesso aos diretórios.
-4. Atribuição de Permissões nos Diretórios:
-O script finaliza atribuindo permissões específicas nos diretórios criados, garantindo a segurança e apropriada distribuição de acesso aos setores correspondentes.
+# Descrição:
+O script visa automatizar a configuração de usuários, grupos e diretórios em ambientes Linux. Sua execução resulta na criação de diretórios específicos para diferentes setores, grupos correspondentes a esses setores, e usuários atribuídos a tais grupos. O script também define as permissões adequadas nos diretórios criados, garantindo uma configuração segura e organizada.
 
-# Conclusão:
-Ao executar este script, a estrutura de diretórios será estabelecida de maneira organizada e segura, promovendo uma administração eficiente de usuários, grupos e permissões em um ambiente Linux. Este processo automatizado proporciona agilidade e consistência na configuração do sistema, contribuindo para a otimização da gestão de recursos e segurança da informação.
+# Objetivo:
+Automatizar a configuração de ambientes Linux, estabelecendo uma estrutura organizada de diretórios, grupos e usuários. Ao executar este script, a estrutura de diretórios é estabelecida de maneira organizada e segura. Isso contribui para uma administração eficiente de usuários, grupos e permissões em ambientes Linux, promovendo agilidade, consistência e otimização na gestão de recursos e segurança da informação.
+
+
+# Funcionalidades:
+- Criação de Diretórios:
+  Estabelece diretórios para diferentes setores da organização, como "publico", "administracao", "vendas" e "secretaria". Essa estrutura facilita o armazenamento e a colaboração organizada.
+
+- Criação de Grupos:
+  Gera grupos correspondentes aos setores definidos, promovendo uma gestão eficiente de permissões e acessos no sistema.
+
+- Criação de Usuários e Associação a Grupos:
+  Cria usuários e os associa aos grupos relevantes, permitindo uma administração eficaz das permissões de acesso aos diretórios.
+
+- Atribuição de Permissões nos Diretórios:
+  Finaliza o processo atribuindo permissões específicas nos diretórios criados, assegurando a segurança e distribuição apropriada de acesso aos setores correspondentes.
